@@ -1,0 +1,6 @@
+{
+  "name": "Lumora",
+  "description": "Lumora - Müasir AI Platforması və Rəqəmsal Ekosistem",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
